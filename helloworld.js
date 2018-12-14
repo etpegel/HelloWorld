@@ -1,0 +1,1 @@
+document.getElementsByTagName("h1")[2].style.fontSize = "80px";
